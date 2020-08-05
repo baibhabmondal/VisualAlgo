@@ -1,0 +1,42 @@
+.grid {
+    margin: 0 auto;
+    height: 500px;
+    width: 500px;
+    background-color: grey;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    height: 49px;
+    width: 49px;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    cursor: pointer;
+}
+
+.button {
+    padding: 5px;
+    display: inline-block;
+    height: 20px;
+    min-width: 30px;
+    margin-right: 20px;
+    cursor: pointer;
+    /* border-radius: 20%; */
+    border: 1px solid brown;
+}
+
+.source {
+    background-color: #7CCA7C
+}
+
+.dest {
+    background-color: #B9A684;
+}
+
+.nav {
+    margin: 0 auto 30px 30%;
+    /* margin-bottom: 30px; */
+    /* justify-content: center; */
+}
