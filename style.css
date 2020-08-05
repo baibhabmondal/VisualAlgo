@@ -40,3 +40,11 @@
     /* margin-bottom: 30px; */
     /* justify-content: center; */
 }
+
+.visited {
+    background-color: #916B2A;
+}
+
+.path {
+    background-color: #D14C4C;
+}
