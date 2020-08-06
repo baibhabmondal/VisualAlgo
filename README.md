@@ -6,5 +6,5 @@
  * Included algorithms 
 
 ```
-[DFS]
+[DFS, BFS]
 ```
